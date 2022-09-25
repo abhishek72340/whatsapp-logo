@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(139, 139, 241);
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatsapp{
+    width:400px;
+    height:400px;
+    background-color:rgb(49, 252, 47);
+    border-radius:50%;
+    border:25px solid #fff;
+    position:relative;
+    
+}
+.triangle{
+position:absolute;
+bottom:-2em;
+left:3em;
+width:4em;
+height: 4em;
+background-color:rgb(49,252,47);
+transform:skew(-20deg) rotate(-20deg);
+border-left: 25px solid #fff;
+border-bottom: 25px solid #fff;
+
+}
+.phone{
+    position:absolute;
+    background-color: #fff;
+    height:20em;
+    width:6em;
+    top:50px;
+    right:150px;
+    transform:rotate(-30deg);
+    border-radius: 50%;
+
+}
+.phone2{
+    background-color:rgb(49, 252, 47);
+    height: 12em;
+    width:6em;
+    position:absolute;
+    left:50px;
+    top:65px;
+    border-radius: 30px;
+    
+
+}
+
