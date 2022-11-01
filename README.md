@@ -1,1 +1,1 @@
-# whatsapp-logo created using by htmland css
+# whatsapp-logo created using by html and css
